@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Select"
+        android:textColor="#000"
+        android:textSize="20sp" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup_add_to_album"
+        android:layout_marginTop="30dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:checked="true"
+            android:id="@+id/radioButton_add_to_existing_album"
+            android:text="Add to existing album"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <RadioButton
+            android:id="@+id/radioButton_add_to_new_album"
+            android:text="Add to new album"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </RadioGroup>
+
+    <Spinner
+        android:layout_marginTop="30dp"
+        android:id="@+id/spinner_choose_album_external_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:backgroundTint="@color/dark_blue_button"
+        android:visibility="gone"
+        android:layout_marginTop="20dp"
+        android:id="@+id/button_create_new_album_external_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Create new album"
+        android:textAllCaps="false"
+        android:textColor="#FFF" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <Button
+            android:backgroundTint="@color/dark_blue_button"
+            android:id="@+id/button_add_external_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Add"
+            android:textAllCaps="false"
+            android:textColor="#FFF" />
+
+        <Button
+            android:backgroundTint="@color/dark_blue_button"
+            android:id="@+id/button_cancel_external_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="Cancel"
+            android:textAllCaps="false"
+            android:textColor="#FFF" />
+
+    </LinearLayout>
+
+</LinearLayout>

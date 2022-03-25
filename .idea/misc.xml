@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.27308192457737324" />
+        <entry key="app/src/main/res/drawable-v24/border_abstract.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable-v24/border_city.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable-v24/border_flower.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable-v24/border_friends.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable-v24/custom_border_none.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/border_abstract.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/border_animal.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/border_category.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/border_city.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/border_countryside.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/border_flower.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/border_friends.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/border_of_bottom_sheet.xml" value="0.31015625" />
+        <entry key="app/src/main/res/drawable/border_sport.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/border_street.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/custom_border_album.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/custom_border_content_note.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/custom_border_icon.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/custom_border_none.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/custom_border_row_image_category_selected.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/custom_border_selected.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/custom_border_selected_green.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/custom_button_cancel_note.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/custom_button_new_note.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/custom_button_save_note.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/custom_divider.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/ic_add_photo.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/ic_added_album.xml" value="0.31015625" />
+        <entry key="app/src/main/res/drawable/ic_baseline_auto_change.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/ic_baseline_folder.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/ic_baseline_info.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/ic_baseline_photo.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/ic_baseline_upgrade.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/ic_brightness.xml" value="0.3140625" />
+        <entry key="app/src/main/res/drawable/ic_close.xml" value="0.31015625" />
+        <entry key="app/src/main/res/drawable/ic_menu.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/ic_note_menu.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/ic_notifications.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/ic_reminder.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/ic_save.xml" value="0.20677083333333332" />
+        <entry key="app/src/main/res/drawable/ic_scroll_up.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/ic_set_background.xml" value="0.3140625" />
+        <entry key="app/src/main/res/drawable/icon_selector.xml" value="0.2082051282051282" />
+        <entry key="app/src/main/res/drawable/round_outline.xml" value="0.3171875" />
+        <entry key="app/src/main/res/drawable/splash_screen_layer.xml" value="0.33" />
+        <entry key="app/src/main/res/drawable/unselect_random_photo.xml" value="0.3171875" />
+        <entry key="app/src/main/res/layout-sw392dp/row_category.xml" value="0.21" />
+        <entry key="app/src/main/res/layout-sw392dp/row_fav_image.xml" value="0.21" />
+        <entry key="app/src/main/res/layout-sw392dp/row_image_in_album.xml" value="0.21" />
+        <entry key="app/src/main/res/layout-sw392dp/row_image_of_category.xml" value="0.21" />
+        <entry key="app/src/main/res/layout-sw392dp/row_premium_image_of_category.xml" value="0.16891891891891891" />
+        <entry key="app/src/main/res/layout-sw392dp/row_random_image.xml" value="0.21" />
+        <entry key="app/src/main/res/layout-sw411dp/row_album.xml" value="0.25" />
+        <entry key="app/src/main/res/layout-sw411dp/row_category.xml" value="0.33" />
+        <entry key="app/src/main/res/layout-sw411dp/row_fav_image.xml" value="0.1953125" />
+        <entry key="app/src/main/res/layout-sw411dp/row_image_in_album.xml" value="0.25" />
+        <entry key="app/src/main/res/layout-sw411dp/row_image_of_category.xml" value="0.1953125" />
+        <entry key="app/src/main/res/layout-sw411dp/row_premium_image_of_category.xml" value="0.1953125" />
+        <entry key="app/src/main/res/layout-sw411dp/row_random_image.xml" value="0.22" />
+        <entry key="app/src/main/res/layout-sw432dp/row_category.xml" value="0.1736111111111111" />
+        <entry key="app/src/main/res/layout-sw432dp/row_image_of_category.xml" value="0.1736111111111111" />
+        <entry key="app/src/main/res/layout/activity_crop.xml" value="0.2859375" />
+        <entry key="app/src/main/res/layout/activity_crop_image.xml" value="0.2859375" />
+        <entry key="app/src/main/res/layout/activity_editor.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.1962962962962963" />
+        <entry key="app/src/main/res/layout/activity_image.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_image_in_album.xml" value="0.2859375" />
+        <entry key="app/src/main/res/layout/activity_image_of_category.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_note_content.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_note_list.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_single_image.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_splass_screen.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_your_album.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/bottom_sheet_favorite.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/choose_album_dialog.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/choose_image_note_dialog.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/connect_internet_dialog.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/content_image_of_category.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/create_album_dialog.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/custom_alarm_dialog.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/editor_dialog.xml" value="0.2859375" />
+        <entry key="app/src/main/res/layout/fragment_category.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_favorite.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_menu.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_random.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/merge_crop_toolbar.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/question_album_dialog.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/reminder_dialog.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/reminder_show_dialog.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/row_album.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/row_category.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/row_content_note.xml" value="0.3050847457627119" />
+        <entry key="app/src/main/res/layout/row_edit_effect.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/row_fav_image.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/row_image_bottom_sheet_fav.xml" value="0.2859375" />
+        <entry key="app/src/main/res/layout/row_image_in_album.xml" value="0.2859375" />
+        <entry key="app/src/main/res/layout/row_image_in_album_for_note.xml" value="0.29296875" />
+        <entry key="app/src/main/res/layout/row_image_of_category.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/row_list_note.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/row_menu.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/row_premium_image_of_category.xml" value="0.29296875" />
+        <entry key="app/src/main/res/layout/row_random_image.xml" value="0.29296875" />
+        <entry key="app/src/main/res/layout/row_spinner_album.xml" value="0.2859375" />
+        <entry key="app/src/main/res/layout/save_external_image_dialog.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/set_auto_change_wallpaper_dialog.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/upgrade_premium_dialog.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/viewpager_image_item.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.1953125" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3171875" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/icon_deep_wallpaper_5.xml" value="0.3171875" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/icon_deep_wallpaper_6.xml" value="0.3171875" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/icon_for_splash.xml" value="0.3171875" />
+        <entry key="app/src/main/res/xml/provider_paths.xml" value="0.2859375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

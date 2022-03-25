@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center_horizontal"
+    android:layout_gravity="center_horizontal"
+    android:background="@drawable/custom_border_none"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:paddingBottom="10dp"
+        android:paddingTop="15dp"
+        android:paddingLeft="16dp"
+        android:textColor="#FFF"
+        android:background="@color/blue_button_save_note"
+        android:textSize="18sp"
+        android:text="Upgrade to premium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:textColor="#000"
+        android:paddingRight="16dp"
+        android:paddingLeft="16dp"
+        android:paddingBottom="32dp"
+        android:paddingTop="32dp"
+        android:text="Thank you, if you like this app, let upgrade to premium to get more new wallpapers."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <LinearLayout
+        android:weightSum="2"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/text_upgrade"
+            android:textStyle="bold"
+            android:textColor="@color/dark_blue_button"
+            android:textAlignment="center"
+            android:layout_weight="1"
+            android:paddingTop="10dp"
+            android:paddingBottom="15dp"
+            android:text="Upgrade"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:id="@+id/text_calcel_upgrade"
+            android:textColor="@color/pink"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:layout_weight="1"
+            android:paddingTop="10dp"
+            android:paddingBottom="15dp"
+            android:text="Cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

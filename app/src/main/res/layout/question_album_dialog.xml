@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:textColor="#000"
+        android:textSize="20sp"
+        android:text="Question"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:layout_marginTop="30dp"
+        android:textColor="#000"
+        android:textSize="15sp"
+        android:text="Do you want to add this image to another album, or remove the image from all albums ?"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:backgroundTint="@color/dark_blue_button"
+            android:id="@+id/button_choose_album"
+            android:textColor="#FFF"
+            android:textAllCaps="false"
+            android:text="Choose"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:backgroundTint="@color/dark_blue_button"
+            android:id="@+id/button_remove_album"
+            android:layout_marginLeft="20dp"
+            android:textColor="#FFF"
+            android:textAllCaps="false"
+            android:text="Remove"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+</LinearLayout>
