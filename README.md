@@ -13,5 +13,3 @@ Related:
 - Kotlin
 - MVVM
 - RxJava and RoomDB
-
-For more details: https://www.youtube.com/watch?v=WhA2mGYlW74
